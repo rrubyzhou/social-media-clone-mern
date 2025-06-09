@@ -1,3 +1,4 @@
-# FullStack Social Media App
+# fullStack social media app
 
-Fullstack Responsive MERN App with Auth, Likes, Dark Mode Using React, MongoDB, MUI
+Fullstack Responsive MERN App with Authentification, Likes, Dark Mode
+Built using React, MongoDB, MUI
